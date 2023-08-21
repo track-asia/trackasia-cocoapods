@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name = 'Trackasia'
+s.name = 'TrackAsia'
 s.version = '1.0.1'
 s.license = { :type => 'Unspecified' }
 s.homepage = 'https://github.com/track-asia-vn/'
