@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 s.name = 'Trackasia'
 s.version = '1.0.1'
 s.license = { :type => 'Unspecified' }
-s.homepage = 'https://github.com/track-asia-vn/'
+s.homepage = 'https://github.com/track-asia/'
 s.authors = { 'Trackasia' => '' }
 s.summary = 'Open source vector map solution for iOS with full styling capabilities.'
 s.platform = :ios
